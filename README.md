@@ -48,7 +48,7 @@ This project was built during my Bootstrap and frontend learning phase. I aimed 
 - 📘 Branded landing page with clean layout
 - 🎓 Sections for courses, seminars, and quizzes
 - 🧩 Modular structure, ready for expansion
-- 📱 Bootstrap-based design (partially responsive)
+- 📱 Bootstrap-based design (responsive)
 - ⚡ Use of jQuery for interactivity (expandable menus, animations)
 
 ---
