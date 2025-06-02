@@ -130,7 +130,7 @@ input::placeholder {
 }
 
 .call-to-action-row {
-  height: 400px !important;
+  height: fit-content !important;
   background: linear-gradient(
       to bottom right,
       rgba(0, 0, 0, 0.8),
@@ -191,5 +191,8 @@ input::placeholder {
 
   .Core-Features-section {
     margin-top: -50px !important;
+  }
+  .call-to-action-row {
+    height: fit-content !important;
   }
 }
