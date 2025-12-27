@@ -13,7 +13,7 @@ SkillVerge is designed to demonstrate my ability to plan, design, and build a pr
 This project was built during my Bootstrap and frontend learning phase. I aimed to test my understanding of:
 - Grid layouts and responsive design using Bootstrap
 - DOM manipulation and events with JavaScript/jQuery
-- UI/UX structure suitable for an LMS-type platform
+
 
 ---
 ## 🌐 Live Demo
